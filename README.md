@@ -19,7 +19,7 @@ Projekt składa się z następujących plików i folderów:
 
 ## Sformatowanie kodu za pomocą Prettier:
 
-* Aby użyć Prettier, musisz zainstalować go w swoim projekcie. Można to zrobić, jeśli masz zainstalowany Node.js, za pomocą polecenia:
+* Musisz posiadać zainstalowany Node.js, a następnie zainstalować Prettier w swoim projekcie. Można to zrobić za pomocą polecenia w terminalu:
   
 ```bash
 npm install --save-dev prettier
